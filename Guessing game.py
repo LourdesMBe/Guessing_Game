@@ -15,7 +15,7 @@ while guess != Secret_word and not(out_of_guesses):
     else:
         out_of_guesses = True
 if out_of_guesses:
-    print("Out of guesses, YOU Loose!!")
+    print("Out of guesses, YOU LOOSE!!")
 else:
     print( "You got the word right!")
 
